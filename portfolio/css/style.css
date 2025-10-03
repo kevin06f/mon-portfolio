@@ -1,0 +1,17 @@
+head {
+    background-color: aqua;
+    text-align: center;
+}
+nav a:hover{
+    color: aqua;
+}
+body{
+     font-family: 'Times New Roman', Times, serif;
+}
+main{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    text-decoration-thickness: calc(2);
+}
