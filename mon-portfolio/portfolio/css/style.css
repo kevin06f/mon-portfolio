@@ -13,7 +13,7 @@ main{
 }
 footer{
     text-align: center;
-    text-decoration-thickness: calc(2);
+    
 }
 body{
     background: linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
