@@ -1,0 +1,26 @@
+header{
+    
+    text-align: center;
+}
+nav a:hover{
+    color: rgb(93, 144, 205);
+}
+body{
+     font-family: 'Times New Roman', Times, serif;
+}
+main{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    text-decoration-thickness: calc(2);
+}
+body{
+    background: linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
+}
+
+
+
+
+
+

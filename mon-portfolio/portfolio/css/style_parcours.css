@@ -1,0 +1,9 @@
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+body{
+    background:linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
+}

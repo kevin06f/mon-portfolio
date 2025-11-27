@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
+}
+header{
+    text-align: center;
+    background:linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
+
+}    
+.projets {
+   
+    justify-content: center;
+    align-items: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-inline: auto;
+}
+
+
+th {
+ color: black;
+ justify-content: center;
+ display: flex;
+ text-align: center;
+ background-color:lightblue;
+}
+footer{
+    text-align: center;
+    justify-content: bottom;
+}
