@@ -1,0 +1,13 @@
+@media (max-width:600px){
+    body{
+         background: linear-gradient(to left, rgb(201, 240, 255), rgb(255, 255, 255));
+    }
+
+}
+@media (min-width:601px) and (max-width:900px) {
+    body{
+        background: linear-gradient(to bottom, rgb(201, 240, 255), rgb(255, 255, 255));
+    
+    }
+    
+}

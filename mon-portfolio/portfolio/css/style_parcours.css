@@ -7,3 +7,29 @@ footer{
 body{
     background:linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255));
 }
+th {
+    background:linear-gradient(to right, rgb(201, 240, 255), rgb(255, 255, 255)); ;
+    border-top: 1px solid black;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+tr:hover {
+    background:rgb(175, 204, 239) ;
+}
+nav a:hover{
+    color: rgb(93, 144, 205);
+}
+footer{
+    text-align: center;
+}
